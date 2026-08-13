@@ -5,7 +5,7 @@
 
 import BigNumber from 'bignumber.js';
 
-export type NetworkType = 'eth_mainnet' | 'base';
+export type NetworkType = 'eth_mainnet';
 
 export type APYRange = 'weekly' | 'monthly';
 

@@ -160,7 +160,7 @@ export class Hysp extends Blockchain {
   public getVaultMeta(): VaultMeta {
     return {
       network: this.network,
-      vaultKey: 'mEVUSD',
+      vaultKey: 'mAPOLLO',
       shareToken: {
         address: this.addressToken,
         symbol: this.shareTokenSymbol,
